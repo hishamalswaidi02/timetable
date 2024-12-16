@@ -6,32 +6,32 @@
   },
   {
     "day": "Sunday",
-    "subject": "Physics",
+    "subject": "ذكاء اصطناعي عملي",
     "time": "12:00 PM"
   },
   {
     "day": "Monday",
-    "subject": "Chemistry",
-    "time": "02:00 PM"
+    "subject": "انظمة موزعة نظري",
+    "time": "11:00 AM"
   },
   {
     "day": "Tuesday",
-    "subject": "Chemistry",
-    "time": "02:00 PM"
+    "subject": "انظمة موزعة عملي",
+    "time": "11:00 AM"
   },
   {
     "day": "Wednesday",
-    "subject": "Chemistry",
+    "subject": "فلاتر",
     "time": "02:00 PM"
   },
   {
     "day": "Thursday",
-    "subject": "Chemistry",
-    "time": "02:00 PM"
+    "subject": "فلاتر عملي",
+    "time": "11:00 AM"
   },
   {
     "day": "Friday",
-    "subject": "Chemistry",
+    "subject": "إجازة",
     "time": "02:00 PM"
   }
 ]
