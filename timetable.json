@@ -3,35 +3,5 @@
     "day": "Saturday",
     "subject": "فلاتر",
     "time": "10:00 AM"
-  },
-  {
-    "day": "Sunday",
-    "subject": "ذكاء اصطناعي عملي",
-    "time": "12:00 PM"
-  },
-  {
-    "day": "Monday",
-    "subject": "انظمة موزعة نظري",
-    "time": "11:00 AM"
-  },
-  {
-    "day": "Tuesday",
-    "subject": "انظمة موزعة عملي",
-    "time": "11:00 AM"
-  },
-  {
-    "day": "Wednesday",
-    "subject": "فلاتر",
-    "time": "02:00 PM"
-  },
-  {
-    "day": "Thursday",
-    "subject": "فلاتر عملي",
-    "time": "11:00 AM"
-  },
-  {
-    "day": "Friday",
-    "subject": "إجازة",
-    "time": "02:00 PM"
   }
 ]
