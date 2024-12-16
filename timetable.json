@@ -1,0 +1,17 @@
+[
+  {
+    "day": "Saturday",
+    "subject": "Mathematics",
+    "time": "10:00 AM"
+  },
+  {
+    "day": "Sunday",
+    "subject": "Physics",
+    "time": "12:00 PM"
+  },
+  {
+    "day": "Monday",
+    "subject": "Chemistry",
+    "time": "02:00 PM"
+  }
+]
