@@ -1,17 +1,14 @@
 [
   {
-    "name": "Flutter for Beginners",
+    "name": "Book 1",
     "number": 1,
-    "link": "https://example.com/flutter-for-beginners"
+    "link": "https://example.com/book1",
+    "image": "https://example.com/book1.jpg"
   },
   {
-    "name": "Advanced Flutter",
+    "name": "Book 2",
     "number": 2,
-    "link": "https://example.com/advanced-flutter"
-  },
-  {
-    "name": "Flutter Widgets",
-    "number": 3,
-    "link": "https://example.com/flutter-widgets"
+    "link": "https://example.com/book2",
+    "image": "https://example.com/book2.jpg"
   }
 ]
