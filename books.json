@@ -1,14 +1,16 @@
-[
-  {
-    "name": "Book 1",
-    "number": 1,
-    "link": "https://example.com/book1",
-    "image": "https://example.com/book1.jpg"
-  },
-  {
-    "name": "Book 2",
-    "number": 2,
-    "link": "https://example.com/book2",
-    "image": "https://example.com/book2.jpg"
-  }
-]
+{
+  "books": [
+    {
+      "name": "Book One",
+      "number": "001",
+      "pdfLink": "https://github.com/your-repo/books/pdfs/book_one.pdf",
+      "image": "https://github.com/your-repo/images/book_one.jpg"
+    },
+    {
+      "name": "Book Two",
+      "number": "002",
+      "pdfLink": "https://github.com/your-repo/books/pdfs/book_two.pdf",
+      "image": "https://github.com/your-repo/images/book_two.jpg"
+    }
+  ]
+}
