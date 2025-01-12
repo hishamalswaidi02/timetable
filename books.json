@@ -1,16 +1,14 @@
-{
-  "books": [
-    {
-      "name": "مرجع فلاتر 2024",
-      "number": "1",
-      "pdfLink": "https://github.com/hishamalswaidi02/timetable/blob/master/flutter%202024.pdf",
-      "image": "https://github.com/hishamalswaidi02/timetable/blob/master/FLUTTER.png"
-    },
-    {
-      "name": "Book Two",
-      "number": "002",
-      "pdfLink": "https://github.com/your-repo/books/pdfs/book_two.pdf",
-      "image": "https://github.com/your-repo/images/book_two.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Book One",
+    "link": "https://sp.apksiptv.com/wp-content/uploads/2025/01/flutter-2024.pdf",
+    "image": "https://sp.apksiptv.com/wp-content/uploads/2025/01/ic_launcher.png"
+  },
+  {
+    "id": 2,
+    "name": "Book Two",
+    "link": "https://example.com/book2.pdf",
+    "image": "https://example.com/book2.jpg"
+  }
+]
