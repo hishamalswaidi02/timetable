@@ -1,13 +1,19 @@
 [
   {
     "id": 1,
-    "name": "مرجع فلاتر 2021",
+    "name": "مرجع فلاتر 2024",
     "link": "https://sp.apksiptv.com/wp-content/uploads/2025/01/flutter-2024.pdf",
     "image": "https://sp.apksiptv.com/wp-content/uploads/2025/01/ic_launcher.png"
   },
   {
     "id": 2,
-    "name": "التوقع الاشرافي",
+    "name": "محاضرات الذكاء الاصطناعي",
+    "link": "https://sp.apksiptv.com/wp-content/uploads/2025/01/محاضرات-الذكاء-الاصطناعي.pdf",
+    "image": "https://sp.apksiptv.com/wp-content/uploads/2025/01/Brain-Machine-3305644.jpg"
+  },
+  {
+    "id": 3,
+    "name": "التوقع الاشرافي ",
     "link": "https://sp.apksiptv.com/wp-content/uploads/2025/01/3-1.pdf",
     "image": "https://sp.apksiptv.com/wp-content/uploads/2025/01/Brain-Machine-3305644.jpg"
   }
