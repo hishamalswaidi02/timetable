@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "name": "Book One",
+    "name": "مرجع فلاتر 2021",
     "link": "https://sp.apksiptv.com/wp-content/uploads/2025/01/flutter-2024.pdf",
     "image": "https://sp.apksiptv.com/wp-content/uploads/2025/01/ic_launcher.png"
   },
   {
     "id": 2,
-    "name": "Book Two",
+    "name": "مقرر ذكاء اصطناعي",
     "link": "https://github.com/hishamalswaidi02/timetable/blob/master/flutter%202024.pdf",
     "image": "https://example.com/book2.jpg"
   }
