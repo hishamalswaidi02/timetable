@@ -6,7 +6,7 @@ GITHUB_TOKEN = "github_pat_11BNVJ2KA0dOlXNQ6aRT6P_6wtR6kl1LATnwIM8rHxjwnBAtbm4Ta
 REPO_OWNER = "hishamalswaidi02"
 REPO_NAME = "timetable"
 
-BASE_URL = f"https://api.github.com/repos/{REPO_OWNER}/{REPO_NAME}/issues"
+BASE_URL = f"https://api.github.com/repos/{hishamalswaidi02}/{timetable}/issues"
 HEADERS = {
     "Authorization": f"Bearer {GITHUB_TOKEN}",
     "Accept": "application/vnd.github.v3+json",
