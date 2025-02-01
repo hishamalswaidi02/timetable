@@ -1,0 +1,20 @@
+{
+  "lectures": [
+    {
+      "id": 1,
+      "teacher_name": "د. محمد",
+      "subject": "شبكات الحاسوب",
+      "start_time": "2025-02-05T10:00:00Z",
+      "duration": 60,
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "teacher_name": "د. أحمد",
+      "subject": "برمجة الويب",
+      "start_time": "2025-02-06T12:00:00Z",
+      "duration": 90,
+      "status": "upcoming"
+    }
+  ]
+}
